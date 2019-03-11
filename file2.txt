@@ -1,2 +1,3 @@
 file 2.
 file2 has been edited one line.
+file2 again edited.
