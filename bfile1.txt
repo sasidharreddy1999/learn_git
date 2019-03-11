@@ -1,1 +1,2 @@
 bfile 1 has been created.
+bfile modified in branch1.
