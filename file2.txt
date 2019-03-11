@@ -1,3 +1,4 @@
 file 2.
 file2 has been edited one line.
 file2 changed in branch1.
+file2 again edited.
